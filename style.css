@@ -1,0 +1,37 @@
+.display-4 {
+    font-family: 'MedievalSharp', cursive;
+    text-align: center;
+    background-color: whitesmoke;
+    font: bold;
+}
+
+body {
+    background-image:url("https://pre00.deviantart.net/a3cf/th/pre/f/2016/307/e/8/alternative_map_of_westeros__game_of_thrones__by_zalringda-dal295u.png");
+}
+
+
+.newItem {
+    display: block;
+    float: left;
+    margin: 20px;
+}
+#got-buttons {
+    font-family: 'MedievalSharp', cursive;
+    color: white;
+    display: block;
+
+}
+
+#addtext {
+    font-family: 'MedievalSharp', cursive;
+    font-size: 40px;
+    color: white;
+}
+
+#footer {
+    font-family: 'MedievalSharp', cursive;
+    color: white;
+    display: block;
+    text-align: center;
+
+}
